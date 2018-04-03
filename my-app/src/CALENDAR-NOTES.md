@@ -6,3 +6,15 @@
 - As recommended: https://github.com/freiksenet/react-calendar
 
 - This pick was liked: http://react-day-picker.js.org/examples/selected-range-enter/
+
+
+
+
+# React-Day-Picker
+
+Basic concepts including disabling days and updating handlers:
+http://react-day-picker.js.org/docs/basic-concepts
+
+Handling Via Input Box With Language Options:
+http://react-day-picker.js.org/docs/input
+
